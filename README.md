@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Benja-Pauls
-      🟥 Computer Science undergraduate at Milwaukee School of Engineering (MSOE)
-      📘 Data Science intern at Direct Supply
+🟥 Computer Science undergraduate at Milwaukee School of Engineering (MSOE)
+📘 Data Science intern at Direct Supply
 
 - 👀 I’m interested in ...
-      + Machine Learning
-      + Entrepreneurship
+Machine Learning
+Entrepreneurship
       + Game Development
       + Leadership
 
