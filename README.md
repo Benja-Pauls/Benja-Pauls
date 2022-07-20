@@ -5,7 +5,7 @@
 - 👀 I’m interested in: 
   - Machine Learning 
   - Entrepreneurship
-  - Game Development  
+  - App/Game Development  
   - Leadership
 
 - 🌱 I’m currently learning: 
