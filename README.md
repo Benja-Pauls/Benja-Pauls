@@ -13,5 +13,5 @@
   - SQL for data management
   - Swift for iOS development 
   - Lua for game development
-  - Java through school
+  - Java, JavaScript, C/C++, Ruby @ MSOE
 
