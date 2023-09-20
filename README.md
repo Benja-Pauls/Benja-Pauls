@@ -10,9 +10,9 @@
   <a>
     <img src="https://komarev.com/ghpvc/?username=Benja-Pauls&style=flat-square&color=blue" alt="Loading Profile Views..."/>
   </a>
-  <img src = "https://badgen.net/github/commits/Benja-Pauls/Benja-Pauls" alt = "Loading..."/>
-  <img src = "https://badgen.net/github/last-commit/Benja-Pauls/Benja-Pauls" alt = "Loading..."/>
-  <img src = "https://img.shields.io/github/languages/count/Benja-Pauls/Benja-Pauls" alt = "Loading..."/>
+  <img src = "https://badgen.net/github/commits/Benja-Pauls" alt = "Loading..."/>
+  <img src = "https://badgen.net/github/last-commit/Benja-Pauls" alt = "Loading..."/>
+  <img src = "https://img.shields.io/github/languages/count/Benja-Pauls" alt = "Loading..."/>
 </div>
 
 
