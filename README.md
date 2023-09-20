@@ -12,6 +12,7 @@
   </a>
   <img src = "https://badgen.net/github/commits/Benja-Pauls/Benja-Pauls" alt = "Loading..."/>
   <img src = "https://badgen.net/github/last-commit/Benja-Pauls/Benja-Pauls" alt = "Loading..."/>
+  <img src = "https://img.shields.io/github/languages/count/Benja-Pauls/Benja-Pauls" alt = "Loading..."/>
 </div>
 
 
