@@ -12,7 +12,7 @@
   </a>
   <img src = "https://badgen.net/github/commits/Benja-Pauls" alt = "Loading..."/>
   <img src = "https://badgen.net/github/last-commit/Benja-Pauls" alt = "Loading..."/>
-  <img src = "![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)" alt = "Loading..."/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green" alt = "Loading..."/>
   <img src = "github-contributions-api.deno.dev/Benja-Pauls" alt = "Loading...".>
 </div>
 
