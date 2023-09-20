@@ -6,6 +6,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=Benja-Pauls&style=flat-square&color=blue" alt=""/>
 
+<h1>
+  Hi! I'm @Benja_Pauls
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 - 👋 Hi, I’m @Benja-Pauls
   - 🟥 Computer Science undergraduate at Milwaukee School of Engineering (MSOE)
   - 📘 Data Science intern at Direct Supply
