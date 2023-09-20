@@ -38,3 +38,7 @@
 
 <h2>GitHub Stats</h2>
 <img src = "https://badgen.net/github/commits/Benja-Pauls/Benja-Pauls" alt = "Loading..."/>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Benja-Pauls&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Benja-Pauls&langs_count=5&theme=tokyonight)]()
+
