@@ -12,6 +12,7 @@
 </h1>
 
 <h2>About Me</h2>
+
 * 🟥 Computer Science undergraduate at Milwaukee School of Engineering (MSOE)<br>
 * 📘 Data Science intern at Direct Supply
 
