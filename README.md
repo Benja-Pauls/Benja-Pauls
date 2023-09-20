@@ -13,8 +13,10 @@
 
 <h2>About Me</h2>
 
-* 🟥 Computer Science undergraduate at Milwaukee School of Engineering (MSOE)<br>
-* 📘 Data Science intern at Direct Supply
+- **Current Responsibilities:**
+  - 🟥 Computer Science undergraduate at Milwaukee School of Engineering (MSOE)
+  - 📘 Data Science intern at Direct Supply
+  - 🤖 President of the MSOE AI-Club
 
 - 👀 **I’m interested in:**
   - Machine Learning 
