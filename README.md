@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Benja_Pauls&style=flat-square&color=blue" alt=""/>
+
 - 👋 Hi, I’m @Benja-Pauls
   - 🟥 Computer Science undergraduate at Milwaukee School of Engineering (MSOE)
   - 📘 Data Science intern at Direct Supply
