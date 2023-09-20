@@ -5,10 +5,10 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ben-paulson-179924224/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Loading LinkedIn Badge..."/>
   </a>
   <a>
-    <img src="https://komarev.com/ghpvc/?username=Benja-Pauls&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=Benja-Pauls&style=flat-square&color=blue" alt="Loading Profile Views..."/>
   </a>
 </div>
 
@@ -37,4 +37,4 @@
   - Java, JavaScript, C/C++, Ruby @ MSOE
 
 <h2>GitHub Stats</h2>
-https://badgen.net/github/commits/Benja-Pauls/Benja-Pauls
+<img src = "https://badgen.net/github/commits/Benja-Pauls/Benja-Pauls" alt = "Loading..."/>
