@@ -39,5 +39,6 @@
 <h2>GitHub Stats</h2>
 <img src = "https://badgen.net/github/commits/Benja-Pauls/Benja-Pauls" alt = "Loading..."/>
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)" />
+## Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
 
