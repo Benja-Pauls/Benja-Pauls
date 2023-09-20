@@ -39,6 +39,5 @@
 <h2>GitHub Stats</h2>
 <img src = "https://badgen.net/github/commits/Benja-Pauls/Benja-Pauls" alt = "Loading..."/>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Benja-Pauls&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Benja-Pauls&langs_count=5&theme=tokyonight)]()
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)" />
 
