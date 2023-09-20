@@ -36,3 +36,4 @@
   - Lua for game development
   - Java, JavaScript, C/C++, Ruby @ MSOE
 
+<h2>GitHub Stats</h2>
