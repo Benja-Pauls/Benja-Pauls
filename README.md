@@ -10,10 +10,8 @@
   <a>
     <img src="https://komarev.com/ghpvc/?username=Benja-Pauls&style=flat-square&color=blue" alt="Loading Profile Views..."/>
   </a>
+  <img src = "https://badgen.net/github/commits/Benja-Pauls/Benja-Pauls" alt = "Loading..."/>
 </div>
-
-
-
 
 
 <h2>About Me</h2>
@@ -36,9 +34,4 @@
   - Lua for game development
   - Java, JavaScript, C/C++, Ruby @ MSOE
 
-<h2>GitHub Stats</h2>
-<img src = "https://badgen.net/github/commits/Benja-Pauls/Benja-Pauls" alt = "Loading..."/>
-
-## Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
 
