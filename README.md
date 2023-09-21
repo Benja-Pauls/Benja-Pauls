@@ -10,13 +10,7 @@
   <a>
     <img src="https://komarev.com/ghpvc/?username=Benja-Pauls&style=flat-square&color=blue" alt="Loading Profile Views..."/>
   </a>
-  <img src = "https://github-readme-stats.vercel.app/api/commits/?username=Tanu-N-Prabhu&theme=blue-green" alt = "Loading..."/>
-  <img src = "https://badgen.net/github/last-commit/Benja-Pauls" alt = "Loading..."/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green" alt = "Loading..."/>
-  <img src = "github-contributions-api.deno.dev/Benja-Pauls" alt = "Loading...".>
 </div>
-
-![SourceForge Commit Count](https://img.shields.io/sourceforge/commit-count/Benja-Pauls)
 
 
 
