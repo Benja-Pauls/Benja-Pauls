@@ -16,7 +16,7 @@
 
 <h2>About Me</h2>
 
-- **Current Responsibilities:**
+- ⚡ **Current Responsibilities:**
   - 🟥 Computer Science undergraduate at Milwaukee School of Engineering (MSOE)
   - 📘 Data Science intern at Direct Supply
   - 🤖 President of the MSOE AI-Club
