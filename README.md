@@ -20,6 +20,8 @@
   - 🟥 Computer Science undergraduate at Milwaukee School of Engineering (MSOE)
   - 📘 Data Science intern at Direct Supply
   - 🤖 President of the MSOE AI-Club
+  - 🛠️ Campus Outreach for MSOE Game Dev Club
+  - 📢 [MSOE/Stanford University Innovation Fellow](https://dschool.stanford.edu/university-innovation/university-innovation-fellows)
 
 - 👀 **I’m interested in:**
   - Machine Learning 
