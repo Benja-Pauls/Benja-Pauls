@@ -13,6 +13,7 @@
 </div>
 
 ## What I'm Building
+- 🧑‍💼 **[CloseRate](https://close-rate.com)** - agentic sales coaching platform increasing close rates by 20%+
 - 🦾 **[ClawStack](link)** — open-source templates for spinning up OpenClaw + frontier model stacks fast
 - 🎯 **[Bearri](link)** — AI-powered sponsorship platform for content creators
 - 🎓 **[AHEAD AI](link)** — scaling university AI clubs into a national chapter network
